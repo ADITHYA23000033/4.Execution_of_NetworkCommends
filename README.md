@@ -27,6 +27,8 @@ This commands includes
 <BR>
 
 ## Output:
+### Name : Adithya V
+### Register no: 212223110001
 ## trace:
 ![Screenshot 2024-04-29 143434](https://github.com/Rajaraman77/4.Execution_of_NetworkCommends/assets/150319383/e40c4730-2333-43ac-bcb3-338a0d32b465)
 ## ping:
