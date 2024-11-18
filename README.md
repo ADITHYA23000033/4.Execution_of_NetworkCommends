@@ -1,4 +1,6 @@
 # 4.Execution_of_NetworkCommands
+## Name : Adithya V
+## Register no: 212223110001
 ## AIM :Use of Network commands in Real Time environment
 ## Software : Command Prompt And Network Protocol Analyzer
 ## Procedure: To do this EXPERIMENT- follows these steps:
@@ -27,8 +29,7 @@ This commands includes
 <BR>
 
 ## Output:
-### Name : Adithya V
-### Register no: 212223110001
+
 ## trace:
 ![Screenshot 2024-04-29 143434](https://github.com/Rajaraman77/4.Execution_of_NetworkCommends/assets/150319383/e40c4730-2333-43ac-bcb3-338a0d32b465)
 ## ping:
